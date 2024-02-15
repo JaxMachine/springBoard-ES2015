@@ -26,11 +26,11 @@ instructor[favoriteNumber] = "That is my favorite!";
 
 /*Computer Proptery Names ES2015 */
 
-let favoriteNumber = 37;
+let secondFavoriteNumber = 37;
 
-const instructor = {
+const instructorTwo = {
   firstName: "Colt's Brother",
-  [favoriteNumber]: "That's my favorite!",
+  [secondFavoriteNumber]: "That's my favorite!",
 };
 
 /* Object Methods */
